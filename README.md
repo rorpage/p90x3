@@ -34,5 +34,10 @@
 5. What equipment did you need?
  - I got a yoga mat, used 2 3lb. dumbbells and 1 6lb. dumbbell, and a set of [resistance bands](https://www.amazon.com/dp/B01IL6A0I6).
 
+6. Which track did you follow.
+ - I followed the "Lean" track.
+ 
+ ![Lean Schedule](https://i2.wp.com/www.p90x3workoutschedule.com/wp-content/uploads/2016/03/P90X3-Lean-Schedule-Calendar-P90X3WorkoutSchedule.gif?fit=792%2C612)
+
 ## One last thing...
 If I can do this, anybody can. I know that might sound cliché, but seriously - you can do it. If you have more questions please let me know!
