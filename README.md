@@ -35,7 +35,7 @@
  - I got a yoga mat, used 2 3lb. dumbbells and 1 6lb. dumbbell, and a set of [resistance bands](https://www.amazon.com/dp/B01IL6A0I6).
 
 6. Which track did you follow.
- - I followed the "Lean" track.
+ - I followed the "Lean" track...ish.
  
  ![Lean Schedule](https://i2.wp.com/www.p90x3workoutschedule.com/wp-content/uploads/2016/03/P90X3-Lean-Schedule-Calendar-P90X3WorkoutSchedule.gif?fit=792%2C612)
 
