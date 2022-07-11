@@ -4,10 +4,10 @@
 
 | Week | Dates         | Monday      | Tuesday     | Wednesday | Thursday | Friday    | Saturday | Sunday |
 | ---- | ------------- | ----------- | ----------- | --------- | -------- | --------- | -------- | ------ |
-| 1    | 06/17 - 06/23 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix | Rest     | Rest   |
-| 2    | 06/17 - 06/23 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix | Rest     | Rest   |
-| 3    | 06/17 - 06/23 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix | Rest     | Rest   |
-| 4    | 06/17 - 06/23 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix | Rest     | Rest   |
+| 1    | 06/05 - 06/11 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix | Rest     | Rest   |
+| 2    | 06/12 - 06/18 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix | Rest     | Rest   |
+| 3    | 06/19 - 06/25 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix | Rest     | Rest   |
+| 4    | 06/26 - 07/02 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix | Rest     | Rest   |
 | 5    | 07/03 - 07/09 | Vacation    | Vacation    | Vacation  | Vacation | Vacation  | Rest     | Rest   |
 | 6    | 07/10 - 07/16 | Triometrics |             |           |          |           |          |        |
 
