@@ -2,17 +2,23 @@
 
 ## Schedule (2022)
 
-| Week | Dates         | Monday      | Tuesday     | Wednesday | Thursday | Friday      | Saturday | Sunday |
-| ---- | ------------- | ----------- | ----------- | --------- | -------- | ----------- | -------- | ------ |
-| 1    | 06/05 - 06/11 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix   | Rest     | Rest   |
-| 2    | 06/12 - 06/18 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix   | Rest     | Rest   |
-| 3    | 06/19 - 06/25 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix   | Rest     | Rest   |
-| 4    | 06/26 - 07/02 | Accelerator | The Warrior | Yoga      | CVX      | Isometrix   | Rest     | Rest   |
-| 5    | 07/03 - 07/09 | Vacation    | Vacation    | Vacation  | Vacation | Vacation    | Rest     | Rest   |
-| 6    | 07/10 - 07/16 | Triometrics | The Warrior | Yoga      | MMX      | Incinerator | Rest     | Rest   |
-| 7    | 07/17 - 07/23 | Triometrics | The Warrior | Yoga      | MMX      | Incinerator | Rest     | Rest   |
-| 8    | 07/24 - 07/30 | Triometrics | The Warrior | Yoga      | MMX      | Incinerator | Rest     | Rest   |
-| 9    | 07/31 - 08/06 |             |             |           |          |             |          |        |
+| Week                   | Dates         | Monday      | Tuesday     | Wednesday | Thursday  | Friday      | Saturday | Sunday |
+| ---------------------- | ------------- | ----------- | ----------- | --------- | --------- | ----------- | -------- | ------ |
+| 1                      | 06/05 - 06/11 | Accelerator | The Warrior | Yoga      | CVX       | Isometrix   | Rest     | Rest   |
+| 2                      | 06/12 - 06/18 | Accelerator | The Warrior | Yoga      | CVX       | Isometrix   | Rest     | Rest   |
+| 3                      | 06/19 - 06/25 | Accelerator | The Warrior | Yoga      | CVX       | Isometrix   | Rest     | Rest   |
+| 4                      | 06/26 - 07/02 | Accelerator | The Warrior | Yoga      | CVX       | Isometrix   | Rest     | Rest   |
+| 5 (Vacation)           | 07/03 - 07/09 | Vacation    | Vacation    | Vacation  | Vacation  | Vacation    | Rest     | Rest   |
+| 6                      | 07/10 - 07/16 | Triometrics | The Warrior | Yoga      | MMX       | Incinerator | Rest     | Rest   |
+| 7                      | 07/17 - 07/23 | Triometrics | The Warrior | Yoga      | MMX       | Incinerator | Rest     | Rest   |
+| 8                      | 07/24 - 07/30 | Triometrics | The Warrior | Yoga      | MMX       | Incinerator | Rest     | Rest   |
+| 9                      | 07/31 - 08/06 | Triometrics | The Warrior | Yoga      | MMX       | Incinerator | Rest     | Rest   |
+| 10 (Less intense week) | 08/07 - 08/13 | Isometrix   | Dynamix     | Yoga      | Isometrix | Dynamix     | Rest     | Rest   |
+| 11                     | 08/14 - 08/20 |             |             | Yoga      |           |             | Rest     | Rest   |
+| 12                     | 08/21 - 08/27 |             |             | Yoga      |           |             | Rest     | Rest   |
+| 13                     | 08/28 - 09/03 |             |             | Yoga      |           |             | Rest     | Rest   |
+| 14                     | 09/04 - 09/10 |             |             | Yoga      |           |             | Rest     | Rest   |
+| 15                     | 09/11 - 09/17 |             |             | Yoga      |           |             | Rest     | Rest   |
 
 ## Schedule (2019)
 
@@ -42,7 +48,7 @@
 
 - At first, yes. Then we signed up for the $99/year subscription so I could easily turn it on in the mornings and just get going.
 
-3. Would you recommend this to someone else.
+3. Would you recommend this to someone else?
 
 - Yeah!! It's really hard and there were _many_ days I didn't feel like doing it. I think it also took a bit of a toll on my shoulders and knees.
 
@@ -54,7 +60,7 @@
 
 - I got a yoga mat, used 2 3lb. dumbbells and 1 6lb. dumbbell, and a set of [resistance bands](https://www.amazon.com/dp/B01IL6A0I6).
 
-6. Which track did you follow.
+6. Which track did you follow?
 
 - I followed the "Lean" track...ish.
 
