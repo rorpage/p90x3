@@ -2,23 +2,23 @@
 
 ## Schedule (2022)
 
-| Week                   | Dates         | Monday      | Tuesday     | Wednesday | Thursday  | Friday      | Saturday | Sunday |
-| ---------------------- | ------------- | ----------- | ----------- | --------- | --------- | ----------- | -------- | ------ |
-| 1                      | 06/05 - 06/11 | Accelerator | The Warrior | Yoga      | CVX       | Isometrix   | Rest     | Rest   |
-| 2                      | 06/12 - 06/18 | Accelerator | The Warrior | Yoga      | CVX       | Isometrix   | Rest     | Rest   |
-| 3                      | 06/19 - 06/25 | Accelerator | The Warrior | Yoga      | CVX       | Isometrix   | Rest     | Rest   |
-| 4                      | 06/26 - 07/02 | Accelerator | The Warrior | Yoga      | CVX       | Isometrix   | Rest     | Rest   |
-| 5 (Vacation)           | 07/03 - 07/09 | Vacation    | Vacation    | Vacation  | Vacation  | Vacation    | Rest     | Rest   |
-| 6                      | 07/10 - 07/16 | Triometrics | The Warrior | Yoga      | MMX       | Incinerator | Rest     | Rest   |
-| 7                      | 07/17 - 07/23 | Triometrics | The Warrior | Yoga      | MMX       | Incinerator | Rest     | Rest   |
-| 8                      | 07/24 - 07/30 | Triometrics | The Warrior | Yoga      | MMX       | Incinerator | Rest     | Rest   |
-| 9                      | 07/31 - 08/06 | Triometrics | The Warrior | Yoga      | MMX       | Incinerator | Rest     | Rest   |
-| 10 (Less intense week) | 08/07 - 08/13 | Isometrix   | Dynamix     | Yoga      | Isometrix | Dynamix     | Rest     | Rest   |
-| 11                     | 08/14 - 08/20 |             |             | Yoga      |           |             | Rest     | Rest   |
-| 12                     | 08/21 - 08/27 |             |             | Yoga      |           |             | Rest     | Rest   |
-| 13                     | 08/28 - 09/03 |             |             | Yoga      |           |             | Rest     | Rest   |
-| 14                     | 09/04 - 09/10 |             |             | Yoga      |           |             | Rest     | Rest   |
-| 15                     | 09/11 - 09/17 |             |             | Yoga      |           |             | Rest     | Rest   |
+| Week                   | Dates         | Monday      | Tuesday     | Wednesday     | Thursday                   | Friday      | Saturday | Sunday |
+| ---------------------- | ------------- | ----------- | ----------- | ------------- | -------------------------- | ----------- | -------- | ------ |
+| 1                      | 06/05 - 06/11 | Accelerator | The Warrior | Yoga          | CVX                        | Isometrix   | Rest     | Rest   |
+| 2                      | 06/12 - 06/18 | Accelerator | The Warrior | Yoga          | CVX                        | Isometrix   | Rest     | Rest   |
+| 3                      | 06/19 - 06/25 | Accelerator | The Warrior | Yoga          | CVX                        | Isometrix   | Rest     | Rest   |
+| 4                      | 06/26 - 07/02 | Accelerator | The Warrior | Yoga          | CVX                        | Isometrix   | Rest     | Rest   |
+| 5 (Vacation)           | 07/03 - 07/09 | Vacation    | Vacation    | Vacation      | Vacation                   | Vacation    | Rest     | Rest   |
+| 6                      | 07/10 - 07/16 | Triometrics | The Warrior | Yoga          | MMX                        | Incinerator | Rest     | Rest   |
+| 7                      | 07/17 - 07/23 | Triometrics | The Warrior | Yoga          | MMX                        | Incinerator | Rest     | Rest   |
+| 8                      | 07/24 - 07/30 | Triometrics | The Warrior | Yoga          | MMX                        | Incinerator | Rest     | Rest   |
+| 9                      | 07/31 - 08/06 | Triometrics | The Warrior | Yoga          | MMX                        | Incinerator | Rest     | Rest   |
+| 10 (Less intense week) | 08/07 - 08/13 | Isometrix   | Dynamix     | Yoga          | Isometrix                  | Dynamix     | Rest     | Rest   |
+| 11                     | 08/14 - 08/20 | Decelerator | MMX         | Complex Lower | Rest (first day of school) | Triometrics | Rest     | Rest   |
+| 12                     | 08/21 - 08/27 | MMX         |             | Yoga          |                            |             | Rest     | Rest   |
+| 13                     | 08/28 - 09/03 |             |             | Yoga          |                            |             | Rest     | Rest   |
+| 14                     | 09/04 - 09/10 |             |             | Yoga          |                            |             | Rest     | Rest   |
+| 15                     | 09/11 - 09/17 |             |             | Yoga          |                            |             | Rest     | Rest   |
 
 ## Schedule (2019)
 
